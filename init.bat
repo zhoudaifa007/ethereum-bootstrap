@@ -1,0 +1,1 @@
+geth --datadir "F:/github/private_eth/data" init genesis.json
